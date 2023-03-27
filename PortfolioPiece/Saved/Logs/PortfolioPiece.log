@@ -7992,3 +7992,1227 @@ GroupActor_UAID_244BFE024030687301_1263192097
 [2023.03.27-15.08.14:491][122]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DirectionalLight_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.PackageMetaData in its package
 [2023.03.27-15.08.14:493][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2023.03.27-15.08.14:527][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.27-15.11.12:208][816]Cmd: SELECT NONE
+[2023.03.27-15.21.01:874][734]LogDerivedDataCache: C:/Users/davii/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.181 and deleted 0 files with total size 0 MiB. Scanned 12184 files in 11967 folders with total size 402 MiB.
+[2023.03.27-15.25.38:193][457]Cmd: SELECT NONE
+[2023.03.27-15.36.12:638][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.03.27-15.36.12:643][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto5
+[2023.03.27-15.36.12:643][744]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/R1GV431P5FDO08OFULRA01_Auto5DDC40A9A41E1EDA6663E5A9C034B3ADD.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01_Auto5.uasset'
+[2023.03.27-15.36.12:643][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.035
+[2023.03.27-15.36.12:643][744]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2023.03.27-15.37.41:259][ 90]Cmd: TRANSACTION UNDO
+[2023.03.27-15.37.41:259][ 90]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.37.42:813][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.37.48:266][684]Cmd: TRANSACTION UNDO
+[2023.03.27-15.37.48:266][684]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.37.49:510][759]Cmd: TRANSACTION UNDO
+[2023.03.27-15.37.49:510][759]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.37.50:480][827]Cmd: MODE GRID=1
+[2023.03.27-15.37.56:485][449]Cmd: SELECT NONE
+[2023.03.27-15.38.07:693][688]Cmd: TRANSACTION UNDO
+[2023.03.27-15.38.07:693][688]LogEditorTransaction: Undo Rotate Elements
+[2023.03.27-15.38.08:350][712]Cmd: MODE ROTGRID=1
+[2023.03.27-15.38.21:031][997]Cmd: SELECT NONE
+[2023.03.27-15.38.31:793][147]Cmd: TRANSACTION UNDO
+[2023.03.27-15.38.31:793][147]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.38.32:096][158]Cmd: TRANSACTION UNDO
+[2023.03.27-15.38.32:096][158]LogEditorTransaction: Undo Scale Elements
+[2023.03.27-15.38.32:402][173]Cmd: TRANSACTION UNDO
+[2023.03.27-15.38.32:402][173]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.27-15.38.33:623][266]Cmd: DELETE
+[2023.03.27-15.38.33:623][266]Cmd: ACTOR DELETE
+[2023.03.27-15.38.33:625][266]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.38.33:653][266]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1520634298 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7C/U4Q0UQO0FT3WB4ZXIAA3CX.PackageMetaData in its package
+[2023.03.27-15.38.33:653][266]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1545319300 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4U/BIE9VRPSD2IGRPAQQURKLZ.PackageMetaData in its package
+[2023.03.27-15.38.33:653][266]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1518615297 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/WX/LDLF1G4TI9HE2PL4FFJHBX.PackageMetaData in its package
+[2023.03.27-15.38.33:655][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.27-15.38.33:660][266]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.03.27-15.38.33:686][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.27-15.38.34:240][306]Cmd: DELETE
+[2023.03.27-15.38.34:240][306]Cmd: ACTOR DELETE
+[2023.03.27-15.38.34:242][306]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.38.34:269][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.27-15.38.34:272][306]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.03.27-15.38.57:218][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.38.57:218][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.38.57:218][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6
+[2023.03.27-15.38.58:607][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.38.58:607][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.38.58:608][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1597272303
+[2023.03.27-15.38.58:825][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.39.01:649][838]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.39.07:250][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.39.18:478][513]Cmd: SELECT NONE
+[2023.03.27-15.39.31:896][863]Cmd: SELECT NONE
+[2023.03.27-15.39.46:000][320]Cmd: DELETE
+[2023.03.27-15.39.46:000][320]Cmd: ACTOR DELETE
+[2023.03.27-15.39.46:002][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.39.46:033][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.03.27-15.39.46:037][320]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.03.27-15.39.58:823][607]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.40.05:261][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.40.32:516][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.32:516][331]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.32:516][331]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_7
+[2023.03.27-15.40.32:689][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.32:690][340]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.32:690][340]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8
+[2023.03.27-15.40.33:231][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.33:231][392]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.40.33:233][392]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1691896307
+[2023.03.27-15.40.33:816][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.40.40:561][114]Cmd: DELETE
+[2023.03.27-15.40.40:561][114]Cmd: ACTOR DELETE
+[2023.03.27-15.40.40:563][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.40.40:591][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.03.27-15.40.40:597][114]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.03.27-15.40.45:385][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.40.45:385][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.40.45:385][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_9
+[2023.03.27-15.40.46:672][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.40.46:672][698]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.40.46:674][698]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1705337308
+[2023.03.27-15.41.07:434][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.41.07:434][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.41.07:434][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_10
+[2023.03.27-15.41.10:035][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.41.10:035][ 45]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.41.10:037][ 45]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1728700309
+[2023.03.27-15.41.10:328][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.41.19:894][ 96]Cmd: DELETE
+[2023.03.27-15.41.19:894][ 96]Cmd: ACTOR DELETE
+[2023.03.27-15.41.19:896][ 96]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.41.19:925][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.03.27-15.41.19:929][ 96]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.03.27-15.41.22:807][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.41.22:807][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.41.22:807][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_11
+[2023.03.27-15.41.23:752][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.41.23:752][423]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.41.23:754][423]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1742417310
+[2023.03.27-15.41.23:905][434]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.41.53:888][373]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.42.40:821][420]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.43.11:540][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.43.32:648][599]LogStaticMesh: StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2 should be resaved to improve async compilation performance.
+[2023.03.27-15.43.32:649][599]LogStaticMesh: Display: Building static mesh Ceiling_2_2...
+[2023.03.27-15.43.32:652][599]LogStaticMesh: Built static mesh [0.00s] /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.43.32:812][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.43.32:812][605]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.43.32:812][605]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12
+[2023.03.27-15.43.34:332][742]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.43.34:332][742]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.43.34:334][742]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1872997314
+[2023.03.27-15.43.44:765][730]Cmd: DELETE
+[2023.03.27-15.43.44:765][730]Cmd: ACTOR DELETE
+[2023.03.27-15.43.44:768][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.43.44:797][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.27-15.43.44:802][730]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.03.27-15.43.46:227][879]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.43.56:990][  5]Cmd: SELECT NONE
+[2023.03.27-15.44.02:590][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.44.02:590][507]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.44.02:591][507]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_13
+[2023.03.27-15.44.03:748][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.44.03:748][624]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.44.03:750][624]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1902413315
+[2023.03.27-15.44.04:370][686]Cmd: DELETE
+[2023.03.27-15.44.04:370][686]Cmd: ACTOR DELETE
+[2023.03.27-15.44.04:372][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.44.04:402][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.27-15.44.04:404][686]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.03.27-15.44.06:181][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.44.06:181][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.44.06:181][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_14
+[2023.03.27-15.44.06:981][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.44.06:981][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.44.06:984][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1905646316
+[2023.03.27-15.44.09:652][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.44.15:898][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.44.36:374][776]Cmd: SELECT NONE
+[2023.03.27-15.44.45:954][785]Cmd: SELECT NONE
+[2023.03.27-15.45.01:260][324]Cmd: SELECT NONE
+[2023.03.27-15.45.16:398][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.45.32:743][588]Cmd: SELECT NONE
+[2023.03.27-15.45.41:852][559]Cmd: DELETE
+[2023.03.27-15.45.41:852][559]Cmd: ACTOR DELETE
+[2023.03.27-15.45.41:856][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.41:858][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.41:858][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.41:859][559]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.41:887][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.27-15.45.41:891][559]LogEditorActor: Deleted 4 Actors (0.039 secs)
+[2023.03.27-15.45.53:466][866]Cmd: DELETE
+[2023.03.27-15.45.53:466][866]Cmd: ACTOR DELETE
+[2023.03.27-15.45.53:469][866]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.53:498][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.27-15.45.53:500][866]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.03.27-15.45.54:235][953]Cmd: TRANSACTION UNDO
+[2023.03.27-15.45.54:235][953]LogEditorTransaction: Undo Delete Elements
+[2023.03.27-15.45.54:270][953]Cmd: EDIT CUT
+[2023.03.27-15.45.54:273][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.45.54:302][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.27-15.45.54:303][953]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.03.27-15.45.55:308][ 18]Cmd: TRANSACTION UNDO
+[2023.03.27-15.45.55:308][ 18]LogEditorTransaction: Undo Cut
+[2023.03.27-15.45.59:963][432]Cmd: TRANSACTION UNDO
+[2023.03.27-15.45.59:963][432]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.46.01:886][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.46.01:886][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.46.01:887][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15
+[2023.03.27-15.46.03:883][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.46.03:883][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.46.03:885][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2022548319
+[2023.03.27-15.46.04:612][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.46.12:818][659]Cmd: SELECT NONE
+[2023.03.27-15.47.38:673][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.48.04:554][105]Cmd: SELECT NONE
+[2023.03.27-15.48.15:851][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.48.25:855][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.48.27:161][445]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.27:161][445]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.40:460][695]Cmd: DELETE
+[2023.03.27-15.48.40:460][695]Cmd: ACTOR DELETE
+[2023.03.27-15.48.40:462][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.48.40:489][695]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1091160501 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/QX/OMQVK6D527L92IBNBYQ1JR.PackageMetaData in its package
+[2023.03.27-15.48.40:491][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.03.27-15.48.40:496][695]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.03.27-15.48.40:525][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.27-15.48.50:452][774]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.50:453][774]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.50:801][785]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.50:801][785]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.27-15.48.50:973][790]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.50:973][790]LogEditorTransaction: Undo Delete Elements
+[2023.03.27-15.48.51:216][801]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.51:216][801]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.51:540][825]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.51:540][825]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.51:790][844]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.51:790][844]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.52:018][858]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.52:018][858]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.52:286][878]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.52:286][878]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.52:540][897]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.52:540][897]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.52:820][918]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.52:820][918]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.53:052][932]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.53:052][932]LogEditorTransaction: Undo Clicking on Elements
+[2023.03.27-15.48.53:523][965]Cmd: TRANSACTION UNDO
+[2023.03.27-15.48.53:523][965]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.48.58:058][356]Cmd: DELETE
+[2023.03.27-15.48.58:058][356]Cmd: ACTOR DELETE
+[2023.03.27-15.48.58:060][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.48.58:061][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.48.58:062][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.48.58:063][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.48.58:090][356]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1101314502 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/47/SDP6YFI8G7863BILI8LI2O.PackageMetaData in its package
+[2023.03.27-15.48.58:090][356]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1084025500 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2K/Z3W12QSX7VSBNMBVT1BTK5.PackageMetaData in its package
+[2023.03.27-15.48.58:091][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.27-15.48.58:095][356]LogEditorActor: Deleted 4 Actors (0.036 secs)
+[2023.03.27-15.48.58:122][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.27-15.49.02:017][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.49.02:017][668]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.49.02:017][668]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_16
+[2023.03.27-15.49.02:983][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.49.02:983][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.49.02:985][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1127906503
+[2023.03.27-15.49.05:194][979]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.49.11:240][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.49.22:137][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.49.26:767][186]Cmd: SELECT NONE
+[2023.03.27-15.49.33:698][899]Cmd: DELETE
+[2023.03.27-15.49.33:698][899]Cmd: ACTOR DELETE
+[2023.03.27-15.49.33:700][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.49.33:701][899]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.49.33:731][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.27-15.49.33:734][899]LogEditorActor: Deleted 2 Actors (0.035 secs)
+[2023.03.27-15.49.36:147][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.49.36:147][ 85]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.49.36:149][ 85]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17
+[2023.03.27-15.49.37:576][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.49.37:576][230]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.49.37:578][230]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1162499505
+[2023.03.27-15.49.38:395][316]Cmd: DELETE
+[2023.03.27-15.49.38:395][316]Cmd: ACTOR DELETE
+[2023.03.27-15.49.38:397][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.49.38:425][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.03.27-15.49.38:427][316]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.03.27-15.49.43:575][670]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.49.43:575][670]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.49.43:575][670]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18
+[2023.03.27-15.49.44:717][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.49.44:717][795]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.49.44:718][795]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1169640506
+[2023.03.27-15.49.50:616][406]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.49.59:485][187]Cmd: ELEMENT MIRROR X=-1
+[2023.03.27-15.50.08:732][159]Cmd: SELECT NONE
+[2023.03.27-15.50.15:738][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2
+[2023.03.27-15.50.15:738][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2
+[2023.03.27-15.50.15:738][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19
+[2023.03.27-15.50.16:482][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2
+[2023.03.27-15.50.16:482][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2
+[2023.03.27-15.50.16:483][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_2.Ceiling_1_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1201405508
+[2023.03.27-15.50.23:512][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.50.27:782][ 36]Cmd: SELECT NONE
+[2023.03.27-15.50.49:766][192]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.51.06:359][960]Cmd: SELECT NONE
+[2023.03.27-15.51.13:435][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.51.13:435][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.51.13:436][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_20
+[2023.03.27-15.51.14:597][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.51.14:597][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1
+[2023.03.27-15.51.14:599][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1.Ceiling_board_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1259520512
+[2023.03.27-15.51.24:631][850]Cmd: SELECT NONE
+[2023.03.27-15.51.33:911][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.51.33:911][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.51.33:911][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_21
+[2023.03.27-15.51.34:711][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.51.34:711][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.51.34:712][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1279634514
+[2023.03.27-15.51.37:662][164]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.51.50:189][532]Cmd: DELETE
+[2023.03.27-15.51.50:189][532]Cmd: ACTOR DELETE
+[2023.03.27-15.51.50:192][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.51.50:222][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.27-15.51.50:226][532]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2023.03.27-15.52.15:026][231]Cmd: TRANSACTION UNDO
+[2023.03.27-15.52.15:026][231]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.52.21:525][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.52.21:525][620]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.52.21:526][620]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_22
+[2023.03.27-15.52.23:783][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.52.23:783][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4
+[2023.03.27-15.52.23:784][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_4.Ceiling_1_4 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1328706515
+[2023.03.27-15.52.23:878][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.52.37:157][ 99]Cmd: ELEMENT MIRROR X=-1
+[2023.03.27-15.52.39:193][304]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.52.55:141][982]Cmd: SELECT NONE
+[2023.03.27-15.52.58:572][360]Cmd: SELECT NONE
+[2023.03.27-15.53.05:439][ 96]Cmd: SELECT NONE
+[2023.03.27-15.53.12:538][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.53.12:538][694]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.53.12:539][694]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_23
+[2023.03.27-15.53.14:022][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.53.14:022][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1
+[2023.03.27-15.53.14:024][854]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1.Ceiling_1_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1378945517
+[2023.03.27-15.53.14:157][862]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.53.24:734][ 17]Cmd: SELECT NONE
+[2023.03.27-15.53.30:645][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.53.30:645][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.53.30:645][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_24
+[2023.03.27-15.53.31:878][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.53.31:878][678]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2
+[2023.03.27-15.53.31:879][678]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2.Ceiling_board_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1396801518
+[2023.03.27-15.53.32:050][690]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.53.34:915][974]Cmd: SELECT NONE
+[2023.03.27-15.54.03:355][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.54.13:403][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.54.13:403][942]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.54.13:404][942]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_25
+[2023.03.27-15.54.13:830][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.54.13:830][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2
+[2023.03.27-15.54.13:832][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_2_2.Ceiling_2_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1438753521
+[2023.03.27-15.54.22:342][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.54.31:408][810]Cmd: SELECT NONE
+[2023.03.27-15.54.45:015][207]Cmd: TRANSACTION UNDO
+[2023.03.27-15.54.45:015][207]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.54.45:291][214]Cmd: TRANSACTION UNDO
+[2023.03.27-15.54.45:291][214]LogEditorTransaction: Undo Set Scale
+[2023.03.27-15.54.45:657][227]Cmd: TRANSACTION UNDO
+[2023.03.27-15.54.45:657][227]LogEditorTransaction: Undo Set Scale
+[2023.03.27-15.54.59:028][532]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.55.10:550][757]Cmd: SELECT NONE
+[2023.03.27-15.55.15:633][305]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.55.23:985][159]Cmd: DELETE
+[2023.03.27-15.55.23:985][159]Cmd: ACTOR DELETE
+[2023.03.27-15.55.23:988][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.55.23:990][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.55.23:991][159]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.55.24:019][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.27-15.55.24:025][159]LogEditorActor: Deleted 3 Actors (0.039 secs)
+[2023.03.27-15.55.38:837][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.55.38:837][517]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.55.38:837][517]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_26
+[2023.03.27-15.55.39:830][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.55.39:830][607]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half
+[2023.03.27-15.55.39:832][607]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_1_half.Ceiling_board_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1524753524
+[2023.03.27-15.55.40:068][626]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.55.43:686][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.55.52:149][832]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.56.01:510][788]Cmd: DELETE
+[2023.03.27-15.56.01:510][788]Cmd: ACTOR DELETE
+[2023.03.27-15.56.01:512][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.56.01:542][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.03.27-15.56.01:546][788]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.03.27-15.56.14:026][113]Cmd: TRANSACTION UNDO
+[2023.03.27-15.56.14:026][113]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.56.14:955][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.56.21:090][733]Cmd: TRANSACTION UNDO
+[2023.03.27-15.56.21:090][733]LogEditorTransaction: Undo Move Elements
+[2023.03.27-15.56.22:964][845]Cmd: DELETE
+[2023.03.27-15.56.22:964][845]Cmd: ACTOR DELETE
+[2023.03.27-15.56.22:966][845]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.56.22:994][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.03.27-15.56.22:997][845]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.03.27-15.57.12:797][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5
+[2023.03.27-15.57.12:797][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5
+[2023.03.27-15.57.12:797][533]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_27
+[2023.03.27-15.57.15:787][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5
+[2023.03.27-15.57.15:787][840]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5
+[2023.03.27-15.57.15:789][840]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_5.Ceiling_1_5 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1620710527
+[2023.03.27-15.57.15:892][844]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.57.17:349][983]Cmd: DELETE
+[2023.03.27-15.57.17:349][983]Cmd: ACTOR DELETE
+[2023.03.27-15.57.17:352][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.57.17:381][983]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1565050526 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/9R/AU6MBBNWXEC6IVQD3MITB0.PackageMetaData in its package
+[2023.03.27-15.57.17:382][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.03.27-15.57.17:384][983]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.03.27-15.57.17:411][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.03.27-15.57.20:437][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.57.20:437][227]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.57.20:438][227]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_28
+[2023.03.27-15.57.22:142][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.57.22:142][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half
+[2023.03.27-15.57.22:145][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_1_1_half.Ceiling_1_1_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1627065528
+[2023.03.27-15.57.22:236][398]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.57.34:824][663]Cmd: DELETE
+[2023.03.27-15.57.34:824][663]Cmd: ACTOR DELETE
+[2023.03.27-15.57.34:826][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.57.34:856][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.03.27-15.57.34:859][663]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.03.27-15.57.35:739][752]Cmd: DELETE
+[2023.03.27-15.57.35:739][752]Cmd: ACTOR DELETE
+[2023.03.27-15.57.35:742][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.57.35:772][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.27-15.57.35:774][752]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.03.27-15.57.36:793][855]Cmd: DELETE
+[2023.03.27-15.57.36:793][855]Cmd: ACTOR DELETE
+[2023.03.27-15.57.36:796][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.57.36:824][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.03.27-15.57.36:825][855]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2023.03.27-15.57.37:927][970]Cmd: DELETE
+[2023.03.27-15.57.37:927][970]Cmd: ACTOR DELETE
+[2023.03.27-15.57.37:929][970]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.27-15.57.37:956][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.03.27-15.57.37:958][970]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2023.03.27-15.57.45:846][804]Cmd: SELECT NONE
+[2023.03.27-15.57.50:333][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.57.50:333][166]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.57.50:333][166]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_29
+[2023.03.27-15.57.51:686][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.57.51:686][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half
+[2023.03.27-15.57.51:687][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Ceiling_board_2_half.Ceiling_board_2_half as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1656609530
+[2023.03.27-15.57.51:850][322]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.57.54:834][619]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.57.57:204][854]Cmd: SELECT NONE
+[2023.03.27-15.58.20:786][149]Cmd: ELEMENT MIRROR X=-1
+[2023.03.27-15.58.23:122][379]Cmd: TRANSACTION UNDO
+[2023.03.27-15.58.23:122][379]LogEditorTransaction: Undo Mirroring Elements
+[2023.03.27-15.58.27:318][618]Cmd: ELEMENT MIRROR Y=-1
+[2023.03.27-15.58.29:622][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.58.31:622][ 47]Cmd: SELECT NONE
+[2023.03.27-15.58.49:037][955]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.59.04:391][610]Cmd: SELECT NONE
+[2023.03.27-15.59.13:906][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1
+[2023.03.27-15.59.13:906][611]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1
+[2023.03.27-15.59.13:907][611]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_30
+[2023.03.27-15.59.16:546][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1
+[2023.03.27-15.59.16:546][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1
+[2023.03.27-15.59.16:548][899]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_aperture_1.Door_aperture_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1741469535
+[2023.03.27-15.59.17:476][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.59.21:119][384]Cmd: SELECT NONE
+[2023.03.27-15.59.28:218][116]Cmd: SELECT NONE
+[2023.03.27-15.59.32:256][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1
+[2023.03.27-15.59.32:256][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1
+[2023.03.27-15.59.32:256][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_31
+[2023.03.27-15.59.33:440][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1
+[2023.03.27-15.59.33:440][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1
+[2023.03.27-15.59.33:442][581]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Door_1.Door_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1758363536
+[2023.03.27-15.59.38:378][ 23]Cmd: ELEMENT MIRROR Y=-1
+[2023.03.27-15.59.39:934][165]Cmd: TRANSACTION UNDO
+[2023.03.27-15.59.39:934][165]LogEditorTransaction: Undo Mirroring Elements
+[2023.03.27-15.59.42:808][336]Cmd: ELEMENT MIRROR X=-1
+[2023.03.27-15.59.45:797][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-15.59.46:640][719]Cmd: SELECT NONE
+[2023.03.27-16.00.00:525][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1
+[2023.03.27-16.00.00:525][917]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1
+[2023.03.27-16.00.00:525][917]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_32
+[2023.03.27-16.00.02:269][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1
+[2023.03.27-16.00.02:269][ 88]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1
+[2023.03.27-16.00.02:271][ 88]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Wall_6_1.Wall_6_1 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1787192538
+[2023.03.27-16.00.20:581][950]Cmd: SELECT NONE
+[2023.03.27-16.00.33:811][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table
+[2023.03.27-16.00.33:811][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table
+[2023.03.27-16.00.33:811][234]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_33
+[2023.03.27-16.00.35:071][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table
+[2023.03.27-16.00.35:071][366]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table
+[2023.03.27-16.00.35:073][366]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Table.Table as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1819994542
+[2023.03.27-16.00.42:037][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-16.00.47:405][714]Cmd: MODE GRID=0
+[2023.03.27-16.00.55:165][512]Cmd: MODE GRID=1
+[2023.03.27-16.00.55:468][540]Cmd: MODE GRID=0
+[2023.03.27-16.01.05:292][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2
+[2023.03.27-16.01.05:293][409]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2
+[2023.03.27-16.01.05:293][409]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_34
+[2023.03.27-16.01.05:896][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2
+[2023.03.27-16.01.05:896][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2
+[2023.03.27-16.01.05:898][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/AlchemistsHouse/Assets/Models/Railing_2.Railing_2 as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1850819543
+[2023.03.27-16.01.05:993][461]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-16.01.09:740][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.27-16.01.31:596][925]Cmd: SELECT NONE
+[2023.03.27-16.01.37:856][617]Cmd: SELECT NONE
+[2023.03.27-16.02.14:313][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.27-16.02.14:326][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.27-16.02.14:359][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01
+[2023.03.27-16.02.14:359][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/R1GV431P5FDO08OFULRA0171B58B9F4ECC999258219690C8A2E481.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset'
+[2023.03.27-16.02.14:363][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6D/2Y4GGJCL509B0MFZ7BDDYF
+[2023.03.27-16.02.14:363][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/2Y4GGJCL509B0MFZ7BDDYFC9422BF744312005DFD98F893629DD50.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/6D/2Y4GGJCL509B0MFZ7BDDYF.uasset'
+[2023.03.27-16.02.14:384][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O0/WALTR8JU0XUXDLBZYS9OKN
+[2023.03.27-16.02.14:384][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/WALTR8JU0XUXDLBZYS9OKN6353A4F94CE5E4CEF7B8158DE9F80445.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O0/WALTR8JU0XUXDLBZYS9OKN.uasset'
+[2023.03.27-16.02.14:385][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/XS/G7492G970WBVIFQ9UFJGUD
+[2023.03.27-16.02.14:385][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/G7492G970WBVIFQ9UFJGUD5BB43097459D9B251439B3B9D7A1137F.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/XS/G7492G970WBVIFQ9UFJGUD.uasset'
+[2023.03.27-16.02.14:386][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UX/UITEJU5N12SA8UXW271Q0K
+[2023.03.27-16.02.14:386][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/UITEJU5N12SA8UXW271Q0K1E224FC046A326349A760AA2AADAF6DB.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/UX/UITEJU5N12SA8UXW271Q0K.uasset'
+[2023.03.27-16.02.14:388][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FU/LJIHQQAA2QE3GRQ6EZ0TI3
+[2023.03.27-16.02.14:388][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/LJIHQQAA2QE3GRQ6EZ0TI34022A4264105006ACE897796C6236C08.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/FU/LJIHQQAA2QE3GRQ6EZ0TI3.uasset'
+[2023.03.27-16.02.14:389][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1B/FD13GVBR5YIEAVBF5AWIL8
+[2023.03.27-16.02.14:389][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/FD13GVBR5YIEAVBF5AWIL8F057D8ED4089CFF1701B08814E8A797B.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1B/FD13GVBR5YIEAVBF5AWIL8.uasset'
+[2023.03.27-16.02.14:391][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/2C/Z4HJW1CO40G4FA76XPSYRG
+[2023.03.27-16.02.14:391][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/Z4HJW1CO40G4FA76XPSYRG154EE9CD4C77BC276BAEF9AB27B4A1C1.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/2C/Z4HJW1CO40G4FA76XPSYRG.uasset'
+[2023.03.27-16.02.14:392][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/WF/564HEFUG5CIMP6GU2QZ0CS
+[2023.03.27-16.02.14:392][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/564HEFUG5CIMP6GU2QZ0CS0E4F72C341C83EB8479C40866139C1B8.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/WF/564HEFUG5CIMP6GU2QZ0CS.uasset'
+[2023.03.27-16.02.14:394][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SU/ID0PVNG3BG0IU87DV5FTSH
+[2023.03.27-16.02.14:394][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/ID0PVNG3BG0IU87DV5FTSH435C3ABA42BC0251BE0055960601AD98.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/SU/ID0PVNG3BG0IU87DV5FTSH.uasset'
+[2023.03.27-16.02.14:395][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EL/57BNG82637NM665LYHWM14
+[2023.03.27-16.02.14:395][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/57BNG82637NM665LYHWM140CA40C4445ACC3350352948A59AA67B6.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EL/57BNG82637NM665LYHWM14.uasset'
+[2023.03.27-16.02.14:397][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AI/7PEGWVHBS37XKXRXSLS751
+[2023.03.27-16.02.14:397][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/7PEGWVHBS37XKXRXSLS75144AE4EBA4E35E37A0538CA916024E055.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/AI/7PEGWVHBS37XKXRXSLS751.uasset'
+[2023.03.27-16.02.14:398][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Q/T50FJ235J7KGSZU4SIR51I
+[2023.03.27-16.02.14:398][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/T50FJ235J7KGSZU4SIR51I0A2DF1B04177380B59B908AA6D4FD7A0.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3Q/T50FJ235J7KGSZU4SIR51I.uasset'
+[2023.03.27-16.02.14:400][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TQ/X7UITGIPTETT4VVURAU65U
+[2023.03.27-16.02.14:400][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/X7UITGIPTETT4VVURAU65UB17D1C5742C352EB872709813C7F3881.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TQ/X7UITGIPTETT4VVURAU65U.uasset'
+[2023.03.27-16.02.14:401][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/NP/W9QW0ZR1AEAH09XF2QGA3A
+[2023.03.27-16.02.14:401][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/W9QW0ZR1AEAH09XF2QGA3A4AC3ECC74F3C589E9A7990B0136CACDF.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/NP/W9QW0ZR1AEAH09XF2QGA3A.uasset'
+[2023.03.27-16.02.14:402][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/QHLAWHK9IJ70RI3EBO2QKR
+[2023.03.27-16.02.14:402][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/QHLAWHK9IJ70RI3EBO2QKR924CB5B84C4E612427E8BFB063CE60B2.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/X2/QHLAWHK9IJ70RI3EBO2QKR.uasset'
+[2023.03.27-16.02.14:404][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9W/Y7FG9BAYV02UQ3NVG4YBRU
+[2023.03.27-16.02.14:405][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/Y7FG9BAYV02UQ3NVG4YBRU8F3B85854E6D2F3D5B781FA6F0BD8DE9.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9W/Y7FG9BAYV02UQ3NVG4YBRU.uasset'
+[2023.03.27-16.02.14:406][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XT/781PUUU5WXJTFSUGV04SLX
+[2023.03.27-16.02.14:406][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/781PUUU5WXJTFSUGV04SLX894522CB4A0A5295DF6156892111C38A.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/XT/781PUUU5WXJTFSUGV04SLX.uasset'
+[2023.03.27-16.02.14:407][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IS/FCGVLV1IDGARWUGZP287CN
+[2023.03.27-16.02.14:407][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/FCGVLV1IDGARWUGZP287CN4354CE5B4FECEFDAB15CCCB67C197F8F.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IS/FCGVLV1IDGARWUGZP287CN.uasset'
+[2023.03.27-16.02.14:409][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZJ/XUGELGWI9N3KZZUNVXON9J
+[2023.03.27-16.02.14:409][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/XUGELGWI9N3KZZUNVXON9J586FF1084ED358E00C955FBBF2827AFD.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/ZJ/XUGELGWI9N3KZZUNVXON9J.uasset'
+[2023.03.27-16.02.14:410][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YN/Z6IQHEXGO2YPF7A2TAK0QW
+[2023.03.27-16.02.14:410][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/Z6IQHEXGO2YPF7A2TAK0QWB8C30CE748EC4EDBE0D9D886DD6EE0E0.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/YN/Z6IQHEXGO2YPF7A2TAK0QW.uasset'
+[2023.03.27-16.02.14:411][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Q9/P1V0LOLKN9843RWD7HZZ31
+[2023.03.27-16.02.14:411][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/P1V0LOLKN9843RWD7HZZ31626C33AB45C97DE89AE045B30DEE3FD5.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Q9/P1V0LOLKN9843RWD7HZZ31.uasset'
+[2023.03.27-16.02.14:413][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/PCN9YJNI85TGFOACAQVRV3
+[2023.03.27-16.02.14:413][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/PCN9YJNI85TGFOACAQVRV3DF88C30D4A7FB65DC6A2B399BD9EE5E1.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/PCN9YJNI85TGFOACAQVRV3.uasset'
+[2023.03.27-16.02.14:414][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/OB/5JQO0J3118WTM5XKPG4SCW
+[2023.03.27-16.02.14:414][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/5JQO0J3118WTM5XKPG4SCWB138E9CE4878C5572A57BE87D9EA74CD.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/OB/5JQO0J3118WTM5XKPG4SCW.uasset'
+[2023.03.27-16.02.14:416][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KG/3V93SKQV0XJXCRER1MXM4B
+[2023.03.27-16.02.14:416][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/3V93SKQV0XJXCRER1MXM4B2CF08D754027EBA0E9478CADA9D19EDD.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KG/3V93SKQV0XJXCRER1MXM4B.uasset'
+[2023.03.27-16.02.14:418][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BR/OSB54MKGVUPIC3NHRCPNKS
+[2023.03.27-16.02.14:418][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/OSB54MKGVUPIC3NHRCPNKS0474F9024062DB8DE4DC44B1BB9C51D3.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/BR/OSB54MKGVUPIC3NHRCPNKS.uasset'
+[2023.03.27-16.02.14:419][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JW/OEKWPGNH6M5CYWCKI8EB9W
+[2023.03.27-16.02.14:419][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/OEKWPGNH6M5CYWCKI8EB9W8CD6A4424D9D8F4B50CF9D98755A1CF3.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JW/OEKWPGNH6M5CYWCKI8EB9W.uasset'
+[2023.03.27-16.02.14:420][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XX/8C07AVXS4G4RC21P6N08C2
+[2023.03.27-16.02.14:420][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/8C07AVXS4G4RC21P6N08C2E1E2D9244705A2F6E07DEEA0C9F35C50.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XX/8C07AVXS4G4RC21P6N08C2.uasset'
+[2023.03.27-16.02.14:422][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ZX/437MYF3NTUSVHF7NI74CKK
+[2023.03.27-16.02.14:422][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/437MYF3NTUSVHF7NI74CKK5295A2B349FFC7A999FD3BACB6825AAE.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/ZX/437MYF3NTUSVHF7NI74CKK.uasset'
+[2023.03.27-16.02.14:423][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/P7/K7VB344KISGHB7NJXL2IKQ
+[2023.03.27-16.02.14:423][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/K7VB344KISGHB7NJXL2IKQ6827405C4565658D458E269CEC5C373D.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/P7/K7VB344KISGHB7NJXL2IKQ.uasset'
+[2023.03.27-16.02.14:424][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ID/4XLCOMAQQP22K5INJZBBY0
+[2023.03.27-16.02.14:424][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/4XLCOMAQQP22K5INJZBBY0994BE37746BE9171520FC3978FCB641C.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ID/4XLCOMAQQP22K5INJZBBY0.uasset'
+[2023.03.27-16.02.14:425][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FU/VMP2MRS82DHRS1SQ4ZQSZN
+[2023.03.27-16.02.14:425][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/VMP2MRS82DHRS1SQ4ZQSZNDA4A02154EB732FFE5309786A46F22A3.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/FU/VMP2MRS82DHRS1SQ4ZQSZN.uasset'
+[2023.03.27-16.02.14:426][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QM/85462W8C0JUVAU47WLGSW3
+[2023.03.27-16.02.14:426][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/85462W8C0JUVAU47WLGSW3EA44FD45477848D01C7F5CA6754E07A8.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QM/85462W8C0JUVAU47WLGSW3.uasset'
+[2023.03.27-16.02.14:428][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YF/9WFBXBPNOB6G6MJED3N12L
+[2023.03.27-16.02.14:428][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/9WFBXBPNOB6G6MJED3N12L1154B35345B32B106357B88C75BE6DF2.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YF/9WFBXBPNOB6G6MJED3N12L.uasset'
+[2023.03.27-16.02.14:429][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/TF/227Z5A1NFQPZZCU55ZECCV
+[2023.03.27-16.02.14:429][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/227Z5A1NFQPZZCU55ZECCVAF2B723349C0EA749D18F598A81E4BE0.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/TF/227Z5A1NFQPZZCU55ZECCV.uasset'
+[2023.03.27-16.02.14:431][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZW/4B14BWGUULPJ4MB47XHNSP
+[2023.03.27-16.02.14:431][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/4B14BWGUULPJ4MB47XHNSP5979DABB4598517A5F8C85A29C5D027A.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZW/4B14BWGUULPJ4MB47XHNSP.uasset'
+[2023.03.27-16.02.14:432][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LZ/KXLQMG747LJ9DFF4APON65
+[2023.03.27-16.02.14:432][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/KXLQMG747LJ9DFF4APON65F381979D43AC10D52D865BB7ADF23CD1.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LZ/KXLQMG747LJ9DFF4APON65.uasset'
+[2023.03.27-16.02.14:433][877]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5E/T6GWNZU537MP8Q7K77BD67
+[2023.03.27-16.02.14:433][877]LogSavePackage: Moving '../../../../../UE5/PortfolioPiece/PortfolioPiece/Saved/T6GWNZU537MP8Q7K77BD676D9635A84DD963630484B59A3B4885EA.tmp' to '../../../../../UE5/PortfolioPiece/PortfolioPiece/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5E/T6GWNZU537MP8Q7K77BD67.uasset'
+[2023.03.27-16.02.14:439][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 7.55 sec)
+[2023.03.27-16.02.14:446][877]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1874741545
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1866845544
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1850819543
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1819994542
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1798542541
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1798540540
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1793252539
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1787192538
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1760824537
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1758363536
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1741469535
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1711970534
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1678678533
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1678677532
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1678676531
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1425306520
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1656609530
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1263310513
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1412953519
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1259520512
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1246955511
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1647666529
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1242782510
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1217628509
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1201405508
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1180826507
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1627065528
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1987794318
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1169640506
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2022548319
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1816571311
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1691896307
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1578821302
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1742417310
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1623096304
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1705337308
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1597272303
+[2023.03.27-16.02.14:446][877]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PostProcessVolume_0
+[2023.03.27-16.02.43:801][642]LogViewport: Scene viewport resized to 1694x953, mode Windowed.
+[2023.03.27-16.02.43:817][643]LogViewport: Scene viewport resized to 1782x984, mode Windowed.
+[2023.03.27-16.02.43:861][644]LogViewport: Scene viewport resized to 1893x1023, mode Windowed.
+[2023.03.27-16.02.43:894][645]LogViewport: Scene viewport resized to 1917x1031, mode Windowed.
+[2023.03.27-16.02.43:931][646]LogViewport: Scene viewport resized to 1920x1032, mode Windowed.
+[2023.03.27-16.02.44:945][744]Cmd: SELECT NONE
+[2023.03.27-16.03.33:918][892]Cmd: SELECT NONE
+[2023.03.27-16.03.35:309][ 39]LogViewport: Scene viewport resized to 1793x988, mode Windowed.
+[2023.03.27-16.03.35:327][ 40]LogViewport: Scene viewport resized to 1717x961, mode Windowed.
+[2023.03.27-16.03.35:370][ 41]LogViewport: Scene viewport resized to 1600x920, mode Windowed.
+[2023.03.27-16.03.35:398][ 42]LogViewport: Scene viewport resized to 1557x905, mode Windowed.
+[2023.03.27-16.03.35:429][ 43]LogViewport: Scene viewport resized to 1534x897, mode Windowed.
+[2023.03.27-16.03.35:457][ 44]LogViewport: Scene viewport resized to 1527x895, mode Windowed.
+[2023.03.27-16.03.35:486][ 45]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1480712523 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/8B/4C7EOW06CEAFW32TJ7GIBF.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1475784522 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H2/PHTJJY7BWV6DMVFY4E6CGX.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1438753521 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5A/CTSP8OLUMZCFVQARLHNI0M.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1279634514 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XP/7IFBQIQQMSX4URE3379EO8.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1396801518 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/VG/A89SCA1QY81FVX1LA0D665.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1378945517 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/D7/OKOPF96UYNJESVKA2JT70Y.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1127906503 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/6S/9GR9Z87J9JJL81WISQASMK.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1554317525 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/OP/W5WBIED9GSUMFOOMQF5PFF.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1620710527 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/TV/DNGE0UXAPY9LJW8AKJOOET.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1162499505 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M9/U3N74EDRKENUB1U0M644IF.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1337830516 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8U/YCHYG4FGJP77ZQP3VYW6FI.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1524753524 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/FJ/8RA0X1NLV4IMGM7SMEUZOK.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2134293323 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FE/76DEWBMVPIOE0AU7NVVZJ1.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1328706515 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9D/UB3XTT8TC6OVHFIIG4TM0F.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2113817322 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/FK/SB08R2L3488VYU2Z5ANCS9.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2113816321 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5N/P903PZMTANT722P0SFHPKA.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_2113814320 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/XB/OA6896EN1YXI7Z3S6T2JHM.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1872997314 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/CH/76VFFONPYHJLXCZPROCR5R.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1918970317 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/S3/59TROATXIRBSBUCT6U9APM.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1857497313 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HQ/EJXO0I1YKIBWCFJOZ09GQW.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1843586312 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UX/NIOXQ85X53Q7FEQVWU1XL3.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1905646316 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/L7/7IP7LQJZHA8I40X9ZKC72Q.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1902413315 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0E/5A3UJ3S7AT354T439JI6KI.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1728700309 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/CU/7RYYIIIQZXOQM1XXMQDLWE.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1547961301 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QE/QHN9KZBKTIYWRM19E8CZYN.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1638793305 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XD/4HK1CK5GHMJ99RM9PXMAAB.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1649748306 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/G8/ECMFHQRAOFN6QHG3F10ZNR.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306E7301_1530375299 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/52/3JX37VKZV6QJ0R0ALDN4Q0.PackageMetaData in its package
+[2023.03.27-16.03.37:301][222]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_244BFE0240306F7301_1142862504 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/G8/66Y4H1W4FCC20GQ5E2H86Z.PackageMetaData in its package
+[2023.03.27-16.03.37:303][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.27-16.03.37:333][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.03.27-16.03.38:641][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.27-16.03.38:645][348]LogStall: Shutdown...
+[2023.03.27-16.03.38:648][348]LogStall: Shutdown complete.
+[2023.03.27-16.03.38:675][348]LogSlate: Window 'PortfolioPiece - Unreal Editor' being destroyed
+[2023.03.27-16.03.38:875][348]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.03.27-16.03.38:890][349]Cmd: QUIT_EDITOR
+[2023.03.27-16.03.38:890][349]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.27-16.03.38:892][349]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.27-16.03.38:892][349]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.27-16.03.38:892][349]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.27-16.03.38:908][349]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-16.03.38:908][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.27-16.03.38:909][349]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.03.27-16.03.38:979][349]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.03.27-16.03.39:004][349]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.27-16.03.39:776][349]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.27-16.03.39:776][349]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.27-16.03.39:776][349]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2023.03.27-16.03.39:776][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.27-16.03.39:778][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.27-16.03.39:784][349]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.27-16.03.39:788][349]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.27-16.03.39:865][349]LogExit: Preparing to exit.
+[2023.03.27-16.03.40:067][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.27-16.03.40:088][349]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:088][349]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:090][349]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.03.27-16.03.40:711][349]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-16.03.40:715][349]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.03.27-16.03.41:198][349]LogExit: Editor shut down
+[2023.03.27-16.03.41:201][349]LogExit: Transaction tracking system shut down
+[2023.03.27-16.03.41:242][349]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.03.27-16.03.44:011][349]LogExit: Object subsystem successfully closed.
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: ================================================
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Total job queries 1178, among them cache hits 350 (29.71%)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Tracking 828 distinct input hashes that result in 293 distinct outputs (35.39%)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: RAM used: 5.57 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.68%
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Shaders Compiled: 547
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Jobs assigned 547, completed 547 (100.00%)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Average time worker was idle: 172.15 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Time job spent in pending queue: average 4.66 s, longest 24.33 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 3.30 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Job life time (pending + execution): average 5.62 s, max 25.26
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 99.19 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Jobs were issued in 547 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Average processing rate: 5.51 jobs/sec
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Total thread time: 412.89 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Total thread preprocess time: 20.01 s
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Percentage time preprocessing: 4.85%
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Effective parallelization: 4.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   78 times, average 1.08 sec, max 1.28 sec, min 0.80 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    3 times, average 0.97 sec, max 1.10 sec, min 0.72 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.97 sec, max 1.09 sec, min 0.89 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    3 times, average 0.97 sec, max 1.11 sec, min 0.72 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled   78 times, average 0.93 sec, max 1.10 sec, min 0.63 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 20.50% of total time (compiled   78 times, average 1.08 sec, max 1.28 sec, min 0.80 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.90% of total time (compiled  101 times, average 0.77 sec, max 1.09 sec, min 0.49 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.54% of total time (compiled   99 times, average 0.77 sec, max 1.17 sec, min 0.48 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 17.56% of total time (compiled   78 times, average 0.93 sec, max 1.10 sec, min 0.63 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.79% of total time (compiled   61 times, average 0.66 sec, max 0.93 sec, min 0.33 sec)
+[2023.03.27-16.03.44:017][349]LogShaderCompilers: Display: ================================================
+[2023.03.27-16.03.44:088][349]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.03.27-16.03.44:333][349]LogVirtualization: UE::Virtualization was shutdown
+[2023.03.27-16.03.45:611][349]LogModuleManager: Shutting down and abandoning module BlueprintGraph (1007)
+[2023.03.27-16.03.45:611][349]LogModuleManager: Shutting down and abandoning module DistCurveEditor (1005)
+[2023.03.27-16.03.45:611][349]LogModuleManager: Shutting down and abandoning module Cascade (1003)
+[2023.03.27-16.03.45:611][349]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1001)
+[2023.03.27-16.03.45:611][349]LogModuleManager: Shutting down and abandoning module Voice (999)
+[2023.03.27-16.03.45:628][349]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (997)
+[2023.03.27-16.03.45:649][349]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (995)
+[2023.03.27-16.03.45:649][349]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (993)
+[2023.03.27-16.03.45:649][349]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (991)
+[2023.03.27-16.03.45:649][349]LogModuleManager: Shutting down and abandoning module AddContentDialog (989)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module WidgetCarousel (988)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2023.03.27-16.03.45:650][349]LogModuleManager: Shutting down and abandoning module PlanarCut (969)
+[2023.03.27-16.03.45:684][349]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (967)
+[2023.03.27-16.03.45:704][349]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (965)
+[2023.03.27-16.03.45:705][349]LogModuleManager: Shutting down and abandoning module TakesCore (963)
+[2023.03.27-16.03.45:705][349]LogModuleManager: Shutting down and abandoning module CharacterAI (961)
+[2023.03.27-16.03.45:705][349]LogModuleManager: Shutting down and abandoning module SmartSnapping (959)
+[2023.03.27-16.03.45:705][349]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (957)
+[2023.03.27-16.03.45:705][349]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (955)
+[2023.03.27-16.03.45:723][349]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (953)
+[2023.03.27-16.03.45:730][349]LogModuleManager: Shutting down and abandoning module TextureAlignMode (951)
+[2023.03.27-16.03.45:730][349]LogModuleManager: Shutting down and abandoning module BspMode (949)
+[2023.03.27-16.03.45:747][349]LogModuleManager: Shutting down and abandoning module GeometryMode (947)
+[2023.03.27-16.03.45:805][349]LogModuleManager: Shutting down and abandoning module WaveTableEditor (945)
+[2023.03.27-16.03.45:827][349]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (943)
+[2023.03.27-16.03.45:827][349]LogModuleManager: Shutting down and abandoning module GooglePADEditor (941)
+[2023.03.27-16.03.45:827][349]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (939)
+[2023.03.27-16.03.45:827][349]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (937)
+[2023.03.27-16.03.45:827][349]LogModuleManager: Shutting down and abandoning module IKRigEditor (935)
+[2023.03.27-16.03.45:849][349]LogModuleManager: Shutting down and abandoning module ControlRigEditor (933)
+[2023.03.27-16.03.45:893][349]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (931)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (929)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (927)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (925)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (923)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module WebMMedia (921)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (919)
+[2023.03.27-16.03.45:920][349]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (917)
+[2023.03.27-16.03.45:944][349]LogModuleManager: Shutting down and abandoning module SequenceRecorder (916)
+[2023.03.27-16.03.45:944][349]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (913)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (911)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (909)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (907)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (905)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (903)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (901)
+[2023.03.27-16.03.45:955][349]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2023.03.27-16.03.45:957][349]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2023.03.27-16.03.45:958][349]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2023.03.27-16.03.45:958][349]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2023.03.27-16.03.45:958][349]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2023.03.27-16.03.45:958][349]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2023.03.27-16.03.45:991][349]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2023.03.27-16.03.45:991][349]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2023.03.27-16.03.45:991][349]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2023.03.27-16.03.45:991][349]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2023.03.27-16.03.45:991][349]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2023.03.27-16.03.46:230][349]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2023.03.27-16.03.46:238][349]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2023.03.27-16.03.46:250][349]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2023.03.27-16.03.46:250][349]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2023.03.27-16.03.46:250][349]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2023.03.27-16.03.46:250][349]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2023.03.27-16.03.46:649][349]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2023.03.27-16.03.46:749][349]MemoryProfiler: Shutdown
+[2023.03.27-16.03.46:756][349]NetworkingProfiler: Shutdown
+[2023.03.27-16.03.46:756][349]LoadingProfiler: Shutdown
+[2023.03.27-16.03.46:756][349]TimingProfiler: Shutdown
+[2023.03.27-16.03.46:793][349]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2023.03.27-16.03.46:812][349]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2023.03.27-16.03.46:812][349]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2023.03.27-16.03.46:812][349]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2023.03.27-16.03.46:820][349]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2023.03.27-16.03.46:827][349]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2023.03.27-16.03.46:827][349]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2023.03.27-16.03.46:827][349]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2023.03.27-16.03.46:827][349]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2023.03.27-16.03.46:828][349]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2023.03.27-16.03.46:846][349]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2023.03.27-16.03.46:857][349]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2023.03.27-16.03.46:868][349]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2023.03.27-16.03.46:868][349]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2023.03.27-16.03.46:873][349]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2023.03.27-16.03.46:893][349]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2023.03.27-16.03.46:946][349]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2023.03.27-16.03.46:946][349]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2023.03.27-16.03.46:946][349]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2023.03.27-16.03.46:946][349]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2023.03.27-16.03.46:953][349]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2023.03.27-16.03.46:996][349]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2023.03.27-16.03.46:996][349]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2023.03.27-16.03.46:996][349]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2023.03.27-16.03.47:005][349]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2023.03.27-16.03.47:005][349]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2023.03.27-16.03.47:005][349]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2023.03.27-16.03.47:005][349]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2023.03.27-16.03.47:009][349]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2023.03.27-16.03.47:009][349]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2023.03.27-16.03.47:009][349]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2023.03.27-16.03.47:009][349]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2023.03.27-16.03.47:009][349]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2023.03.27-16.03.47:026][349]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2023.03.27-16.03.47:026][349]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2023.03.27-16.03.47:042][349]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2023.03.27-16.03.47:042][349]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2023.03.27-16.03.47:042][349]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2023.03.27-16.03.47:051][349]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2023.03.27-16.03.47:212][349]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2023.03.27-16.03.47:221][349]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2023.03.27-16.03.47:221][349]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2023.03.27-16.03.47:243][349]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (699)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module LightMixer (697)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (695)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (693)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2023.03.27-16.03.47:259][349]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2023.03.27-16.03.47:260][349]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (687)
+[2023.03.27-16.03.47:276][349]LogModuleManager: Shutting down and abandoning module UVEditorTools (685)
+[2023.03.27-16.03.47:276][349]LogModuleManager: Shutting down and abandoning module UVEditor (683)
+[2023.03.27-16.03.47:281][349]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (681)
+[2023.03.27-16.03.47:281][349]LogOpenImageDenoise: OIDN shutting down
+[2023.03.27-16.03.47:281][349]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (679)
+[2023.03.27-16.03.47:296][349]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (677)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (675)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (673)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module MeshLODToolset (671)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module Iris (669)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (667)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (665)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (664)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (662)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (659)
+[2023.03.27-16.03.47:325][349]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (657)
+[2023.03.27-16.03.47:332][349]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (655)
+[2023.03.27-16.03.47:348][349]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (653)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module TakeSequencer (651)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module TakeMovieScene (649)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module DataflowNodes (647)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module DataflowEditor (645)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module ChaosNiagara (643)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (641)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (639)
+[2023.03.27-16.03.47:354][349]LogModuleManager: Shutting down and abandoning module FractureEditor (637)
+[2023.03.27-16.03.47:385][349]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (635)
+[2023.03.27-16.03.47:385][349]LogModuleManager: Shutting down and abandoning module BackChannel (633)
+[2023.03.27-16.03.47:444][349]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (631)
+[2023.03.27-16.03.47:444][349]LogModuleManager: Shutting down and abandoning module AutomationUtils (629)
+[2023.03.27-16.03.47:444][349]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (627)
+[2023.03.27-16.03.47:444][349]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (625)
+[2023.03.27-16.03.47:444][349]LogModuleManager: Shutting down and abandoning module Paper2DEditor (623)
+[2023.03.27-16.03.47:463][349]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (621)
+[2023.03.27-16.03.47:473][349]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (619)
+[2023.03.27-16.03.47:473][349]LogModuleManager: Shutting down and abandoning module PluginBrowser (617)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (615)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module StylusInput (613)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (611)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (609)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module TemplateSequence (607)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (605)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module SequencerScripting (603)
+[2023.03.27-16.03.47:474][349]LogModuleManager: Shutting down and abandoning module VariantManager (601)
+[2023.03.27-16.03.47:482][349]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (599)
+[2023.03.27-16.03.47:482][349]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (597)
+[2023.03.27-16.03.47:482][349]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (595)
+[2023.03.27-16.03.47:505][349]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (593)
+[2023.03.27-16.03.47:522][349]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (591)
+[2023.03.27-16.03.47:522][349]LogModuleManager: Shutting down and abandoning module GLTFImporter (589)
+[2023.03.27-16.03.47:543][349]LogModuleManager: Shutting down and abandoning module GLTFCore (587)
+[2023.03.27-16.03.47:543][349]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (585)
+[2023.03.27-16.03.47:559][349]LogModuleManager: Shutting down and abandoning module EditorDebugTools (583)
+[2023.03.27-16.03.47:559][349]LogModuleManager: Shutting down and abandoning module CurveEditorTools (581)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (579)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module CryptoKeys (577)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (575)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module SynthesisEditor (573)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module ResonanceAudio (571)
+[2023.03.27-16.03.47:560][349]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (569)
+[2023.03.27-16.03.47:570][349]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (567)
+[2023.03.27-16.03.47:570][349]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (565)
+[2023.03.27-16.03.47:570][349]LogModuleManager: Shutting down and abandoning module ModelingOperators (563)
+[2023.03.27-16.03.47:571][349]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (561)
+[2023.03.27-16.03.47:571][349]LogModuleManager: Shutting down and abandoning module ModelingComponents (559)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module GeometryFramework (558)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (555)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module MeshModelingTools (553)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module InputDebugging (551)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module GooglePAD (549)
+[2023.03.27-16.03.47:591][349]LogModuleManager: Shutting down and abandoning module DynamicMesh (547)
+[2023.03.27-16.03.47:639][349]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (545)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (543)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (541)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (539)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AudioCapture (537)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (536)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AssetTags (533)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (531)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (529)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AppleImageUtils (527)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module AndroidPermission (525)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (523)
+[2023.03.27-16.03.47:728][349]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (521)
+[2023.03.27-16.03.47:752][349]LogModuleManager: Shutting down and abandoning module UObjectPlugin (519)
+[2023.03.27-16.03.47:752][349]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (517)
+[2023.03.27-16.03.47:752][349]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (515)
+[2023.03.27-16.03.47:752][349]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (513)
+[2023.03.27-16.03.47:752][349]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (511)
+[2023.03.27-16.03.47:760][349]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (509)
+[2023.03.27-16.03.47:772][349]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (507)
+[2023.03.27-16.03.47:778][349]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (505)
+[2023.03.27-16.03.47:786][349]LogModuleManager: Shutting down and abandoning module InterchangePipelines (503)
+[2023.03.27-16.03.47:786][349]LogModuleManager: Shutting down and abandoning module InterchangeExport (501)
+[2023.03.27-16.03.47:786][349]LogModuleManager: Shutting down and abandoning module InterchangeMessages (499)
+[2023.03.27-16.03.47:786][349]LogModuleManager: Shutting down and abandoning module InterchangeImport (497)
+[2023.03.27-16.03.47:795][349]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (495)
+[2023.03.27-16.03.47:795][349]LogModuleManager: Shutting down and abandoning module InterchangeNodes (493)
+[2023.03.27-16.03.47:795][349]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (491)
+[2023.03.27-16.03.47:795][349]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (489)
+[2023.03.27-16.03.47:795][349]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (487)
+[2023.03.27-16.03.47:808][349]LogModuleManager: Shutting down and abandoning module InterchangeEditor (485)
+[2023.03.27-16.03.47:808][349]LogModuleManager: Shutting down and abandoning module PluginUtils (483)
+[2023.03.27-16.03.47:809][349]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (481)
+[2023.03.27-16.03.47:829][349]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (479)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module GitSourceControl (477)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module DumpGPUServices (475)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (473)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (471)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module ControlRigSpline (469)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (465)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module InterchangeTests (463)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (461)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (459)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module AlembicImporter (457)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module AlembicLibrary (456)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module GeometryCache (455)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (454)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (449)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module MediaPlate (447)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module MediaCompositing (445)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module ImgMedia (443)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (441)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2023.03.27-16.03.47:830][349]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (429)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module PBIK (427)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module FullBodyIK (425)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (423)
+[2023.03.27-16.03.47:841][349]LogModuleManager: Shutting down and abandoning module TakeRecorder (422)
+[2023.03.27-16.03.47:868][349]LogModuleManager: Shutting down and abandoning module ChaosCaching (419)
+[2023.03.27-16.03.47:868][349]LogModuleManager: Shutting down and abandoning module Paper2D (417)
+[2023.03.27-16.03.47:868][349]LogModuleManager: Shutting down and abandoning module UdpMessaging (415)
+[2023.03.27-16.03.47:968][349]LogModuleManager: Shutting down and abandoning module TcpMessaging (413)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module ActorSequence (411)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (409)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (407)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module FacialAnimation (405)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module DataValidation (403)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (401)
+[2023.03.27-16.03.48:069][349]LogModuleManager: Shutting down and abandoning module LevelEditor (400)
+[2023.03.27-16.03.48:098][349]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (399)
+[2023.03.27-16.03.48:098][349]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (397)
+[2023.03.27-16.03.48:098][349]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (395)
+[2023.03.27-16.03.48:099][349]LogModuleManager: Shutting down and abandoning module MainFrame (393)
+[2023.03.27-16.03.48:099][349]LogModuleManager: Shutting down and abandoning module HotReload (392)
+[2023.03.27-16.03.48:099][349]LogModuleManager: Shutting down and abandoning module TreeMap (388)
+[2023.03.27-16.03.48:116][349]LogModuleManager: Shutting down and abandoning module Synthesis (385)
+[2023.03.27-16.03.48:116][349]LogModuleManager: Shutting down and abandoning module SoundFields (383)
+[2023.03.27-16.03.48:116][349]LogModuleManager: Shutting down and abandoning module SignificanceManager (381)
+[2023.03.27-16.03.48:116][349]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (379)
+[2023.03.27-16.03.48:116][349]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (377)
+[2023.03.27-16.03.48:132][349]LogModuleManager: Shutting down and abandoning module MetasoundEditor (375)
+[2023.03.27-16.03.48:139][349]LogModuleManager: Shutting down and abandoning module AudioWidgets (374)
+[2023.03.27-16.03.48:139][349]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (373)
+[2023.03.27-16.03.48:139][349]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (369)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module MetasoundEngine (367)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module WaveTable (366)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (364)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (361)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (359)
+[2023.03.27-16.03.48:145][349]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (357)
+[2023.03.27-16.03.48:162][349]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (355)
+[2023.03.27-16.03.48:162][349]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (353)
+[2023.03.27-16.03.48:162][349]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (351)
+[2023.03.27-16.03.48:162][349]LogModuleManager: Shutting down and abandoning module CableComponent (349)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (347)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (346)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (343)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (341)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (339)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (337)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module IKRig (335)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (333)
+[2023.03.27-16.03.48:199][349]LogModuleManager: Shutting down and abandoning module ControlRig (331)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module LevelSequence (330)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (327)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module Niagara (325)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module SignalProcessing (324)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module NiagaraEditor (322)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module ToolMenus (320)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module ContentBrowserData (318)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module NiagaraCore (313)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module AnimationSharing (311)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module GameplayCameras (309)
+[2023.03.27-16.03.48:223][349]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (307)
+[2023.03.27-16.03.48:246][349]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (305)
+[2023.03.27-16.03.48:246][349]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2023.03.27-16.03.48:246][349]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2023.03.27-16.03.48:246][349]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2023.03.27-16.03.48:259][349]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2023.03.27-16.03.48:260][349]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2023.03.27-16.03.48:260][349]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2023.03.27-16.03.48:260][349]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2023.03.27-16.03.48:260][349]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2023.03.27-16.03.48:260][349]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2023.03.27-16.03.48:270][349]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2023.03.27-16.03.48:270][349]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2023.03.27-16.03.48:297][349]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2023.03.27-16.03.48:297][349]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module Core (231)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2023.03.27-16.03.48:298][349]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2023.03.27-16.03.48:316][349]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2023.03.27-16.03.48:316][349]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2023.03.27-16.03.48:329][349]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2023.03.27-16.03.48:329][349]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2023.03.27-16.03.48:329][349]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2023.03.27-16.03.48:347][349]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2023.03.27-16.03.48:347][349]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2023.03.27-16.03.48:347][349]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2023.03.27-16.03.48:347][349]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2023.03.27-16.03.48:367][349]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2023.03.27-16.03.48:393][349]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2023.03.27-16.03.48:444][349]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2023.03.27-16.03.48:457][349]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2023.03.27-16.03.48:457][349]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2023.03.27-16.03.48:468][349]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2023.03.27-16.03.48:468][349]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.03.27-16.03.48:477][349]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.03.27-16.03.48:477][349]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.03.27-16.03.48:497][349]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.03.27-16.03.48:512][349]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.03.27-16.03.48:529][349]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.03.27-16.03.48:545][349]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.03.27-16.03.48:553][349]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2023.03.27-16.03.48:553][349]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2023.03.27-16.03.48:553][349]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.03.27-16.03.48:553][349]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2023.03.27-16.03.48:558][349]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.03.27-16.03.48:559][349]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.03.27-16.03.48:559][349]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.03.27-16.03.48:566][349]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.03.27-16.03.48:567][349]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.03.27-16.03.48:567][349]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.03.27-16.03.48:567][349]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.03.27-16.03.48:567][349]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.03.27-16.03.48:592][349]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.03.27-16.03.48:592][349]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.03.27-16.03.48:592][349]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.03.27-16.03.48:592][349]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.03.27-16.03.48:592][349]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.03.27-16.03.48:593][349]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.03.27-16.03.48:594][349]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module ChaosCloth (112)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module GLTFExporter (110)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (104)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (102)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2023.03.27-16.03.48:616][349]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2023.03.27-16.03.48:640][349]LogModuleManager: Shutting down and abandoning module PixWinPlugin (96)
+[2023.03.27-16.03.48:658][349]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (94)
+[2023.03.27-16.03.48:658][349]LogModuleManager: Shutting down and abandoning module NiagaraShader (92)
+[2023.03.27-16.03.48:658][349]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2023.03.27-16.03.48:658][349]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (88)
+[2023.03.27-16.03.48:658][349]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2023.03.27-16.03.48:688][349]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2023.03.27-16.03.48:688][349]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2023.03.27-16.03.48:719][349]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2023.03.27-16.03.48:739][349]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.03.27-16.03.48:739][349]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2441CB60-4EA2-DE08-4090-3BA9A3B21EDC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=770c005048f38ef2bf5843b88384b77d%7C098da404a86c46c6bce86bb807f8e3b2%7C0ac51d3e-2ad2-4a9d-ba8b-91eee6c8baa9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.03.27-16.03.48:756][349]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2023.03.27-16.03.48:757][349]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (72)
+[2023.03.27-16.03.48:757][349]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (70)
+[2023.03.27-16.03.48:782][349]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (68)
+[2023.03.27-16.03.48:794][349]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2023.03.27-16.03.48:794][349]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2023.03.27-16.03.48:812][349]LogModuleManager: Shutting down and abandoning module Media (63)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (60)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.03.27-16.03.48:813][349]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.03.27-16.03.48:827][349]LogXGEController: Cleaning working directory: C:/Users/davii/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.03.27-16.03.48:827][349]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.03.27-16.03.48:848][349]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.03.27-16.03.48:873][349]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.03.27-16.03.48:889][349]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.03.27-16.03.48:890][349]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.03.27-16.03.48:891][349]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.03.27-16.03.48:891][349]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.03.27-16.03.48:891][349]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.03.27-16.03.48:891][349]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.03.27-16.03.48:891][349]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.03.27-16.03.48:937][349]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.03.27-16.03.48:937][349]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.03.27-16.03.48:937][349]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.03.27-16.03.48:937][349]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.03.27-16.03.48:937][349]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.03.27-16.03.48:938][349]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.03.27-16.03.50:080][349]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.03.27-16.03.50:172][349]LogExit: Exiting.
+[2023.03.27-16.03.50:214][349]Log file closed, 03/27/23 17:03:50
